@@ -9,3 +9,7 @@ The investors can buy shares from the mining pools and they get every month the 
 # Investors
 
 Investors can be everyone who pay money for the shares, but project members that do work here with issues can get shares.
+
+# Recruitment
+
+If you are a developer or a promoter or have any other support to this project it will give you privileged shares. The first 30 project-members gets this privileged shares. So you are invited to help this project and get payed with crypto coins when the mining farms start to mine.
